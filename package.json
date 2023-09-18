@@ -9,14 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@loveholidays/phrasebook": "^2.0.0",
     "@types/node": "20.6.0",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
+    "@typescript-eslint/eslint-plugin": "^6.7.0",
+    "accept-language": "^3.0.18",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
+    "i18next": "^23.5.1",
+    "i18next-resources-to-backend": "^1.1.4",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-i18next": "^13.2.2",
+    "sass": "^1.67.0",
     "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.3"
   }
 }
