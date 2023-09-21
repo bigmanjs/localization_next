@@ -1,4 +1,4 @@
-import { useBearStore } from '@/app/store/page'
+import { useBearStore } from '@/store/page'
 import { shallow } from 'zustand/shallow'
 
 const BearCounter = () => {

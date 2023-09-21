@@ -1,7 +1,7 @@
 'use client'
 
-import BearCounter from '../components/Zustand/BearCounter/page'
-import Controls from '../components/Zustand/Controls/page'
+import BearCounter from '../app/components/Zustand/BearCounter/page'
+import Controls from '../app/components/Zustand/Controls/page'
 
 const ZustandDemo = () => {
   return (

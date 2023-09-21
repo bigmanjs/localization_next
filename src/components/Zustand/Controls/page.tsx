@@ -1,4 +1,4 @@
-import { useBearStore } from '@/app/store/page'
+import { useBearStore } from '@/store/page'
 import { useEffect, useRef } from 'react'
 
 const Controls = () => {
